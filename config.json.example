@@ -1,0 +1,5 @@
+{
+  "youtube_api_key": "YOUR_YOUTUBE_DATA_API_V3_KEY_HERE",
+  "hotkey": "ctrl+shift+p",
+  "always_on_top": false
+}
