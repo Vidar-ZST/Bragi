@@ -7,7 +7,7 @@ A minimalist, high-performance desktop YouTube audio player built for background
 ## Features
 
 - **Lightweight**: Near-zero CPU and memory usage; no Chromium or Electron.
-- **Global Overlay**: Bring up or hide the player anytime with `Ctrl+Shift+P`, even in full-screen games.
+- **Global Overlay**: Bring up or hide the player anytime with `Ctrl+Shift+P` (or custom hotkey), even in full-screen games.
 - **Dual Loading**: Search YouTube tracks by title or paste links directly (including Shorts).
 - **Interactive Queue**: Reorder-free playlist with direct track switching and individual removal.
 - **System Tray**: Minimizes cleanly to the Windows notification tray.
