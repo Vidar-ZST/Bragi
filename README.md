@@ -11,8 +11,10 @@ A minimalist, high-performance desktop YouTube audio player built for background
 - **Dual Loading**: Search YouTube tracks by title or paste links directly (including Shorts).
 - **Interactive Queue**: Reorder-free playlist with direct track switching and individual removal.
 - **System Tray**: Minimizes cleanly to the Windows notification tray.
-![screenshot](screenshot_1.png)
+
 ---
+![screenshot](screenshot_1.png)
+
 
 ## Prerequisites
 
