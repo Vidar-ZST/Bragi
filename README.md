@@ -3,7 +3,7 @@
 A minimalist, high-performance desktop YouTube audio player built for background listening. Streams audio directly through headless `mpv` without browser or video rendering overhead.
 
 ---
-
+![icon](icon.png)
 ## Features
 
 - **Lightweight**: Near-zero CPU and memory usage; no Chromium or Electron.
